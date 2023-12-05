@@ -1,0 +1,11 @@
+num runs: 1
+val ROC AUC mean: 0.6926699340179763
+val ROC AUC std: .nan
+test ROC AUC mean: 0.718430118053423
+test ROC AUC std: .nan
+val ROC AUC values:
+- 0.6926699340179763
+test ROC AUC values:
+- 0.718430118053423
+best steps:
+- 432
