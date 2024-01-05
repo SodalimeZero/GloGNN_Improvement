@@ -9,3 +9,4 @@ data/*.csv
 data/facebook100
 data/splits
 data/twitch
+.gitignore
