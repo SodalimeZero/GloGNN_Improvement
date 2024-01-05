@@ -34,7 +34,7 @@ cd data
 
 2. You can run any models implemented in 'models.py'. For examples, you can run our model on 'genius' dataset by the script:
 ```python
-python train.py --dataset genius --sub_dataset None --model mlpnorm_improve
+python main.py --dataset genius --sub_dataset None --model mlpnorm_improve
 ```
 
 For more experiments running details, you can ref the running sh in the 'scripts/' directory.
