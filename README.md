@@ -1,6 +1,6 @@
 # GloGNN_Improvement
 
-This is the code of GloGNN and its improvements for course *Advanced Artificial Intelligence (Sun Yat-sen University, Fall 2023)*. 
+This is the code of GloGNN(ICML2022)'s improvements for course *Advanced Artificial Intelligence (Sun Yat-sen University, Fall 2023)*. 
 
 ## Setup
 
