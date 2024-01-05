@@ -8,7 +8,6 @@ import numpy as np
 # 设置图片大小和像素
 plt.figure(figsize=(9, 9), dpi=100)
 
-# 随机生成横纵坐标数据
 methods = ['Method1', 'Method2', 'Method3']
 # roman-empire
 results = [70.53, 66.58, 69.24]
